@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/apps/cryptic-peak-94519/deploy/heroku-git
+https://cryptic-peak-94519.herokuapp.com/
