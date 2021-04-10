@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cdfaad7-c039-4e2f-8e09-591f075a2985" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/chart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/face.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/face_message.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/vendor/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_detailStatisticAndPayout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_detailStatisticAndPayout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_generalStatistic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_generalStatistic.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_linksAndBanners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_linksAndBanners.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_modals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_modals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_personalData.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_personalData.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_topbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_topbar.scss" afterDir="false" />
-    </list>
+    <list default="true" id="0cdfaad7-c039-4e2f-8e09-591f075a2985" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +77,7 @@
       <workItem from="1617734157945" duration="490000" />
       <workItem from="1618073863387" duration="2340000" />
       <workItem from="1618076558705" duration="2239000" />
+      <workItem from="1618089632169" duration="28000" />
     </task>
     <servers />
   </component>
